@@ -18,6 +18,11 @@
   (fp_line (start -1.25 -7.5) (end 33.5 -7.5) (layer "F.SilkS") (width 0.12) (tstamp 2fb54775-d79c-4284-937b-074a341542c0))
   (fp_line (start 33.5 60.75) (end -1.25 60.75) (layer "F.SilkS") (width 0.12) (tstamp 46bd029c-54ef-473a-8005-e65fc0b43d3d))
   (fp_line (start 36.5 -4.5) (end 36.5 57.75) (layer "F.SilkS") (width 0.12) (tstamp 67e4742a-b760-42fd-9522-be254fd4415e))
+  (fp_rect (start 2.54 -9.1694) (end 8.6106 -4.8006) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 14fc535c-cb89-48aa-90fe-76e1fd47f505))
+  (fp_rect (start 17.83 48.86) (end 20.11 53.18) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 42b61d5b-39d6-462b-b2cc-57656078085f))
+  (fp_rect (start 5.1562 -2.032) (end 26.2128 1.5748) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 64940337-2175-44aa-ab05-e1e92e28a356))
+  (fp_rect (start 15.5702 -5.715) (end 28.0924 -2.9972) (layer "F.SilkS") (width 0.12) (fill none) (tstamp d547ab08-9a5d-4bc3-bdc6-eb70399817c6))
+  (fp_rect (start 2.8448 46.228) (end 16.6878 60.8838) (layer "F.SilkS") (width 0.12) (fill none) (tstamp fd545dac-856c-48de-9df2-9bd1e3b69ae7))
   (fp_arc (start 33.5 -7.5) (mid 35.62132 -6.62132) (end 36.5 -4.5) (layer "F.SilkS") (width 0.12) (tstamp 08af2bdd-3ae2-44a1-bf78-f2c6d296d24f))
   (fp_arc (start -1.25 60.75) (mid -3.37132 59.87132) (end -4.25 57.75) (layer "F.SilkS") (width 0.12) (tstamp 59db2b12-ce10-4882-91dc-94988ee17a89))
   (fp_arc (start -4.25 -4.5) (mid -3.37132 -6.62132) (end -1.25 -7.5) (layer "F.SilkS") (width 0.12) (tstamp b6253d17-2ab0-4e86-9689-453b75c8acd8))
@@ -116,4 +121,28 @@
   (pad "86" thru_hole circle (at 34.79 50.79) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 1b0f55f9-5fa5-489c-9db2-e63c29ecdd31))
   (pad "87" thru_hole circle (at 32.25 53.33) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp b89754be-9738-4e5f-8e95-e260ee696903))
   (pad "88" thru_hole circle (at 34.79 53.33) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 372eb80c-116e-4b19-abae-92abb6d35e81))
+  (pad "89" thru_hole circle (at 6.6294 -0.3048) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 637c5908-9371-4d80-a19b-036e111ef5cd))
+  (pad "90" thru_hole circle (at 9.1694 -0.3048) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 2ff15691-c9f8-4e08-a694-3230522780fc))
+  (pad "91" thru_hole circle (at 11.7094 -0.3048) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 72729c20-0465-4f8c-be80-3c22bb337ef7))
+  (pad "92" thru_hole circle (at 14.2494 -0.3048) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 874dbaf8-adf6-4f01-81a0-e037bac53346))
+  (pad "93" thru_hole circle (at 16.7894 -0.3048) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp e9597133-3d67-41f8-aabc-5b61d8d3c3c1))
+  (pad "94" thru_hole circle (at 19.3294 -0.3048) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 3497045f-d218-47c9-8fd1-2d0a39585aa6))
+  (pad "95" thru_hole circle (at 21.8694 -0.3048) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp acb025c1-3784-47d1-b5e9-772bcda8c549))
+  (pad "96" thru_hole circle (at 24.4094 -0.3048) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp ca7eee62-ed2f-41f0-ba4a-5f9abd56ee97))
+  (pad "97" thru_hole circle (at 16.7132 -4.4958) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp b540f997-cabb-4061-85a0-370b4e9dd03a))
+  (pad "98" thru_hole circle (at 19.2532 -4.4958) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 233d14ec-e17f-4b70-ace9-a65479e58a33))
+  (pad "99" thru_hole circle (at 21.7932 -4.4958) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 03ae5596-bc68-4919-b712-a127d93338cc))
+  (pad "100" thru_hole circle (at 24.3332 -4.4958) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp de9ed2c1-1e41-42ee-81d4-f29b6bd22835))
+  (pad "101" thru_hole circle (at 26.8732 -4.4958) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 1b73c962-e471-4ec3-ab97-9114c97a5609))
+  (pad "102" thru_hole circle (at 18.9 52.24) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 5ca4be1c-537e-4a4a-b344-d0c8ffde8546))
+  (pad "103" thru_hole circle (at 18.9 49.7) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 3c5e5ea9-793d-46e3-86bc-5884c4490dc7))
+  (group "" (id a2c6281c-1798-4c93-a973-786fd5788e7e)
+    (members
+      03ae5596-bc68-4919-b712-a127d93338cc
+      1b73c962-e471-4ec3-ab97-9114c97a5609
+      233d14ec-e17f-4b70-ace9-a65479e58a33
+      b540f997-cabb-4061-85a0-370b4e9dd03a
+      de9ed2c1-1e41-42ee-81d4-f29b6bd22835
+    )
+  )
 )
